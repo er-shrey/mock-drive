@@ -7,6 +7,8 @@ Pick a start and destination (tap the map or search), set a speed, press **Start
 The whole phone then reports a GPS position moving along real roads at that speed,
 one fix per second, with heading and speed filled in.
 
+**Download:** [MockDrive-0.1.0.apk](https://github.com/er-shrey/mock-drive/releases/download/v0.1.0/MockDrive-0.1.0.apk)
+
 ## Features
 - OpenStreetMap map. Tap to add start → stops → destination, or search for a place.
 - Road routing (OSRM) or straight lines ("Follow roads" off).
